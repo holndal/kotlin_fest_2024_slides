@@ -27,7 +27,7 @@ Jetpack ComposeのMultiplatform対応が安定版でリリースされ、1つの
 畠山 創太 [@chooblarin](https://twitter.com/chooblarin)
 
 ### Description
-クリエイティブコーディングを行うソフトウェアにおいてはProcessingが広く知られています。 OPENRNDR ( https://openrndr.org/ ) はKotlinで書かれたクリエイティブコーディングのライブラリです。
+クリエイティブコーディングを行うソフトウェアにおいてはProcessingが広く知られています。 [OPENRNDR](https://openrndr.org/) はKotlinで書かれたクリエイティブコーディングのライブラリです。
 私はこれまでに、中高生や大学生にプログラミングの講義をする機会に恵まれてきましたが、その経験からKotlinとOPENRNDRがたのしくコーディングするために優れたものであると感じています。
 
 本セッションのトークでは、皆さんが今すぐOPENRNDRを使ってクリエイティブコーディングを始めたくなるような紹介を試みたいと思います。
